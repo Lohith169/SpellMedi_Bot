@@ -1,4 +1,4 @@
-# End-to-end-Medical-Chatbot-Generative-AI
+# Spell-Medi_Chatbot-Generative-AI
 
 
 # How to run?
